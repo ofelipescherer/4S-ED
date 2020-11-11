@@ -7,3 +7,7 @@ Extra 1: Escrever um algoritmo que faça a conversão de uma expressão da forma
 Exercício 2: Escrever um algoritmo que faça a conta de uma expressão na forma pós-fixa.
 
 Exercício 3: Exemplos de recursividade
+
+Exercício 4: Implementar a Torre de Hanoi
+
+Exercício 5: Implementar algoritmos de ordenação BubbleSort, InsertionSort, SelectionSort e QuickSort. Além disso, escolher um outrou algoritmo de sua escolha
