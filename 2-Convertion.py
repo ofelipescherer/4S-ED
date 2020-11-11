@@ -33,4 +33,4 @@ def calcular(equacao):
 
     return fila[0]
 
-print(calcular("((4+(2*2))-1)")) #RESULTADO 5
+print(calcular("((4+(2*2))-1)")) #RESULTADO 7
