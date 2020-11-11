@@ -1,4 +1,4 @@
-# Felipe Scherer RA-D88HJE-1
+# Felipe Scherer 
 #Algoritmos vistos em aula + 1 de minha escolha
 # Algotimo Escolhido: Comb Sort
 
